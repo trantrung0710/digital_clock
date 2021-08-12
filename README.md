@@ -3,3 +3,4 @@
 2. Right click and select Extract Here
 3. Choose .exe file and use
 - You can refer to the source code with the file clock.py 
+- If blocked by Webbrowser, turn off Windows Defender and Anti Virus 
